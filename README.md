@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date:25-11-2026
+## Reference Number:26012045
+## Name:S.Nandhakumar
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,94 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+HARVEST BRIDGE is an AI-powered agricultural marketplace that connects farmers and FPOs directly with consumers and bulk buyers.
+- Pre-Harvest Booking: Buyers can book crops before harvesting.
+- Village Supply Pooling: Small farmers combine their produce to fulfil bulk orders.
+- Smart Harvest Matching: AI matches crop availability with buyer demand.
+- Return-Trip Logistics: Uses available returning vehicles to reduce transport costs.
+- Price Protection: Farmers can set minimum selling prices.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+Frontend: HTML, CSS, JavaScript
+
+
+
+Backend: Python, Flask
+
+
+
+Database: MySQL
+
+
+
+AI/ML: Demand forecasting and harvest prediction
+
+
+
+Maps API: Route optimization
+
+
+
+Weather API: Weather-based farming alerts
+
+
+
+QR Code: Product tracking
+
+
+Workflow:
+
+Buyer Demand → AI Prediction → Farmer Matching → Supply Pooling → Route Optimization → Direct Delivery.
+
+<img width="1536" height="1024" alt="Harvest Bridge_ Farm-to-Market Workflow" src="https://github.com/user-attachments/assets/090310f6-8e4a-42f0-8f30-99f0ce364a87" />
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Simple mobile-friendly interface for farmers.
+
+
+
+Web-based platform with affordable technologies.
+
+
+
+Historical data for demand forecasting.
+
+
+
+Regional-language support for rural users.
+
+
+
+Flexible delivery and shared transportation.
+
+
+
+Quality verification through digital records.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1. Impact
+- Supports small and rural farmers.
+- Reduces middlemen dependency.
+- Improves agricultural market access.
+- Encourages digital farming.
+2. Benefits
+- Better prices for farmers.
+- Lower prices for consumers.
+- Reduced food wastage.
+- Lower transportation costs.
+- Efficient supply chain.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+[e-NAM – National Agriculture Market](url)
+
+
+
+[AGMARKNET](url)
+
+
+
+[SFAC India](url)
+
+ 
+[Ministry of Food Processing Industries](url)
