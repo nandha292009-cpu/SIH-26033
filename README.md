@@ -105,15 +105,15 @@ Quality verification through digital records.
 - Efficient supply chain.
 
 ## Research and References
-[e-NAM – National Agriculture Market](url)
+e-NAM-https://enam.gov.in
 
 
 
-[AGMARKNET](url)
+AGMARKNET –https://agmarknet.gov.in
 
 
 
-[SFAC India](url)
+Small Farmers' Agribusiness Consortium-https://sfacindia.com
 
  
-[Ministry of Food Processing Industries](url)
+Ministry of Food Processing Industries-https://www.mofpi.gov.in
